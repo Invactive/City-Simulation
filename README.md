@@ -48,19 +48,19 @@ training object detection algorithms.
 # Generated data examples
 Virtual camera view                         |  Camera view with stencil mask
 :-------------------------:|:-------------------------:
-![](Screenshots\camera058.jpeg)    |  ![](Screenshots\mask058.jpeg)
-![](Screenshots\camera673.jpeg)    |  ![](Screenshots\mask673.jpeg)
-![](Screenshots\camera144.jpeg)    |  ![](Screenshots\mask144.jpeg)
-![](Screenshots\camera001.jpeg)    |  ![](Screenshots\mask001.jpeg)
+![](Screenshots/camera058.jpeg)    |  ![](Screenshots/mask058.jpeg)
+![](Screenshots/camera673.jpeg)    |  ![](Screenshots/mask673.jpeg)
+![](Screenshots/camera144.jpeg)    |  ![](Screenshots/mask144.jpeg)
+![](Screenshots/camera001.jpeg)    |  ![](Screenshots/mask001.jpeg)
 
 # Views of virtual city
-![](Screenshots\city1.png) 
-![](Screenshots\city2.png) 
-![](Screenshots\city3.png) 
-![](Screenshots\city4.png) 
+![](Screenshots/city1.png) 
+![](Screenshots/city2.png) 
+![](Screenshots/city3.png) 
+![](Screenshots/city4.png) 
 
 # Window application with user interface
-![](Screenshots\main.png) 
+![](Screenshots/main.png) 
 
 # Demonstration video
 [Demo video on Youtube](https://youtu.be/7gIBxZXtjus)
