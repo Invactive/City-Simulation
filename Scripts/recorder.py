@@ -24,7 +24,7 @@ class Recorder:
     """    
 
     def __init__(self) -> None:
-            super().__init__()
+            unreal.log("Recorder initialized.")
 
     def getCineCameraActors(self, actors: array) -> array:
         """
