@@ -37,10 +37,10 @@ def install(system: str, package: str) -> None:
     except Exception as e:
         print(e)
 
-
+# Examples of use:
 # install("Win64", "PyQt5")
-install("Win64", "importlib")
-install("Win64", "unreal")
-install("Win64", "tk")
-install("Win64", "PySide6")
+# install("Win64", "importlib")
+# install("Win64", "unreal")
+# install("Win64", "tk")
+# install("Win64", "PySide6")
 
